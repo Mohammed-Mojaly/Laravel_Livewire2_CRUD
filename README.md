@@ -10,5 +10,5 @@ Simple CRUD system by laravel 8 & livewire 2 with jetstream auth and tailwind cs
 
 2- Composer install.
 
-4- install packages (npm install && npm run dev)
+3- install packages (npm install && npm run dev)
 
